@@ -1,2 +1,4 @@
 # Dice
-DiceForAnko
+上班摸鱼搞的Jframe练习作,具体逻辑没做深化也没有输入check,大概画个界面
+
+可以实现简单的nD(m)输出掷骰子
